@@ -1,6 +1,26 @@
+---
+project_id: "OP-000"
+title: "Opendoor Site Brief"
+status: "Complete"
+priority: "P0"
+owner: "Donny Smith"
+last_updated: "2025-07-02"
+related_projects: []
+tags: ["site-brief", "planning", "overview"]
+---
+
 # Opendoor Site Brief
 
 **March 2025**
+
+## Table of Contents
+
+- [Background](#background)
+- [Hypothesis](#hypothesis)
+- [Surface Areas](#surface-areas)
+- [Creative Guidance](#creative-guidance)
+- [Resources](#resources)
+- [Related Documents](#related-documents)
 
 ## Background
 
@@ -71,3 +91,8 @@ If we rethink all web pages that aren't directly part of the offer-flow process 
   - [Employee Eric](https://www.instagram.com/reel/DFqi7zgJmv-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
   - [Customer Chelsea](https://www.instagram.com/p/C-se_-BKB7V/?hl=en)
   - [Customer Charlene](https://www.instagram.com/p/C85VyHpPDnn/?hl=en)
+
+## Related Documents
+
+- [OP-276: Geopages & Campaign Pages](geopages-campaign-pages.md) - Implementation plan for location-specific pages
+- [OP-276: Geo-Targeted Approach](geo-targeted-approach.md) - Detailed SEO strategy for state and city pages

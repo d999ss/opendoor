@@ -1,4 +1,29 @@
-# Opendoor Geo-Targeted Approach
+---
+project_id: "OP-276"
+title: "Geo-Targeted Approach"
+status: "In Progress"
+priority: "P0"
+owner: "Jocelyn McArthur"
+last_updated: "2025-07-02"
+related_projects: ["OP-000"]
+tags: ["geopages", "seo", "geo-targeting"]
+---
+
+# Geo-Targeted Approach
+
+## Table of Contents
+
+- [Overview](#the-challenge)
+- [SEO Strategy](#seo-strategy)
+- [Market Opportunity Analysis](#market-opportunity-analysis)
+- [Development Approach](#sprint-plan)
+- [Assumptions](#assumptions)
+- [Timeline and Budget](#timeline--budget)
+- [Related Documents](#related-documents)
+
+## Overview
+
+Opendoor currently lacks robust geo-targeted content for its top markets, impacting SEO performance and local discoverability. There's an opportunity to develop a scalable strategy that balances unique market storytelling with programmatic efficiencies — ultimately increasing visibility and engagement in high-priority markets.
 
 ## The Challenge
 
@@ -97,6 +122,7 @@ Opendoor's current Contentful setup and design system—particularly the use of 
 The recommendation is to start with a single flexible state-level landing page template, built from existing components wherever possible, and enhanced with lightweight SEO-optimized modules (headlines, CTAs, FAQ blocks, metadata support, etc.).
 
 This approach:
+
 - Minimizes custom development lift
 - Speeds up time-to-market
 - Supports future scaling to city-level pages via a repeatable structure
@@ -125,6 +151,7 @@ The full process will be managed from finalizing SEO specifications and UX templ
 ### Sprint Plan
 
 #### Sprint 1: Pilot Page Foundation & Setup
+
 - Final SEO spec sheets and keyword mapping for six priority states
 - Define UX structure and layout for state landing pages
 - Audit and select existing DS components (identify any gaps)
@@ -132,6 +159,7 @@ The full process will be managed from finalizing SEO specifications and UX templ
 - Outline copy + asset requirements for pilot state
 
 #### Sprint 2: Pilot Page Content, Design & Build
+
 - Draft copy for pilot state page
 - Design visual layout for pilot page (desktop + mobile)
 - Source or create necessary imagery
@@ -139,6 +167,7 @@ The full process will be managed from finalizing SEO specifications and UX templ
 - Input and configure copy + assets in CMS
 
 #### Sprint 3: Pilot Review + Remaining State Prep
+
 - Internal QA and feedback on pilot page (copy/design/dev)
 - Apply edits and finalize pilot implementation
 - Confirm final structure and content format for remaining 5 states
@@ -146,6 +175,7 @@ The full process will be managed from finalizing SEO specifications and UX templ
 - Begin copywriting and design work for 2–3 state pages
 
 #### Sprint 4: Remaining State Pages – Content, Design & Build
+
 - Complete copywriting for remaining state pages
 - Visual design for remaining state pages (using approved format)
 - Source/create images for each state
@@ -153,12 +183,14 @@ The full process will be managed from finalizing SEO specifications and UX templ
 - Input and configure copy + assets in CMS
 
 #### Sprint 5: QA
+
 - QA all six pages across browsers, devices, and screen sizes
 - Design and copy QA
 - Client review and feedback
 - SEO checks: metadata, internal linking, structured data
 
 #### Sprint 6: Final Edits & Launch
+
 - Final fixes from QA list
 - Final copy/design refinements based on internal/client feedback
 - Final client review before launch
@@ -182,3 +214,8 @@ The full process will be managed from finalizing SEO specifications and UX templ
 
 - **Timeline**: 6 sprints / 12 weeks
 - **Budget**: $75,150
+
+## Related Documents
+
+- [OP-000: Opendoor Site Brief](opendoor-site-brief.md) - Main project brief and overview
+- [OP-276: Geopages & Campaign Pages](geopages-campaign-pages.md) - Implementation plan for location-specific pages

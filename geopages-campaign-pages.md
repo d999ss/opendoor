@@ -1,13 +1,38 @@
-# [OP-276] Opendoor Geopages + Campaign Pages
+---
+project_id: "OP-276"
+title: "Opendoor Geopages and Campaign Pages"
+status: "In Progress"
+priority: "P0"
+owner: "Jocelyn McArthur"
+last_updated: "2025-07-02"
+related_projects: ["OP-000"]
+tags: ["geopages", "campaigns", "seo"]
+---
 
-Delivery Lead: Jocelyn McArthur  
-Client Partner: Nicole Hampton  
-Creative Lead: Chris Kerr  
-Status: Planning  
-Dates: September 5, 2025  
-Project Number: OP-276  
+# Opendoor Geopages and Campaign Pages
+
+## Project Metadata
+
+- **Delivery Lead:** Jocelyn McArthur  
+- **Client Partner:** Nicole Hampton  
+- **Creative Lead:** Chris Kerr  
+- **Project Status:** Planning  
+- **Target Completion:** September 5, 2025
+- **Project Number:** OP-276  
+
+## Table of Contents
+
+- [Background and Motivation](#background-and-motivation)
+- [Key Challenges and Analysis](#key-challenges-and-analysis)
+- [High-level Task Breakdown](#high-level-task-breakdown)
+- [Timeline Planning](#timeline-planning)
+- [Project Status Board](#project-status-board)
+- [Integration with Other Systems](#integration-with-other-systems)
+- [Resources](#resources)
+- [Related Documents](#related-documents)
 
 ## Background and Motivation
+
 Opendoor needs to develop and organize location-specific (geo) pages and campaign landing pages to improve SEO performance and provide targeted content for marketing campaigns. These pages will help capture location-specific search traffic and provide customized experiences for users coming from different marketing campaigns.
 
 A detailed analysis has identified that Opendoor currently lacks robust geo-targeted content for its top markets, impacting SEO performance and local discoverability. There's an opportunity to develop a scalable strategy that balances unique market storytelling with programmatic efficiencies — ultimately increasing visibility and engagement in high-priority markets. For complete details, see the [Geo-Targeted Approach](./geo-targeted-approach.md) document.
@@ -77,19 +102,18 @@ A detailed analysis has identified that Opendoor currently lacks robust geo-targ
 ## Timeline Planning
 
 ### Target Completion Date
+
 September 5, 2025
 
 Based on the tasks outlined in this document, the following timeline structure will be used to track progress. The implementation is planned for 6 sprints over 12 weeks with a budget of $75,150.
 
-A detailed sprint-by-sprint implementation plan is available in the [Geo-Targeted Approach](./geo-targeted-approach.md) document.
+A detailed sprint-by-sprint implementation plan is available in the [Geo-Targeted Approach](geo-targeted-approach.md) document.
 
 ### Phase 1: Research and Planning
-
 
 - Research target locations and SEO keywords for geopages
 - Analyze competitor geopage strategies
 - Define requirements for campaign page framework
-
 
 ### Phase 2: Design and Prototyping
 
@@ -122,12 +146,19 @@ A detailed sprint-by-sprint implementation plan is available in the [Geo-Targete
 ## Project Status Board
 
 - [ ] Task 1: Research target locations and SEO keywords for geopages
-- [ ] Task 2: Design geopage template structure
-- [ ] Task 3: Develop content strategy for geopages
-- [ ] Task 4: Implement technical foundation for geopages
-- [ ] Task 5: Design campaign page framework
-- [ ] Task 6: Integrate campaign pages with marketing tools
+
+- [ ] Task 2: Create wireframes for geopage templates
+
+- [ ] Task 3: Develop content strategy for location-specific pages
+
+- [ ] Task 4: Build backend system for managing location data
+
+- [ ] Task 5: Implement frontend components for geopages
+
+- [ ] Task 6: Launch initial set of geopages for top markets
+
 - [ ] Task 7: Develop A/B testing system for campaign pages
+
 - [ ] Task 8: Create documentation for marketing team on using campaign page system
 
 ## Current Status / Progress Tracking
@@ -153,3 +184,8 @@ The geopages and campaign pages work should align with the overall site redesign
 - Marketing campaign calendar and objectives
 - Analytics on current site performance by location
 - Brand guidelines and updated design system components
+
+## Related Documents
+
+- [OP-000: Opendoor Site Brief](opendoor-site-brief.md) - Main project brief and overview
+- [OP-276: Geo-Targeted Approach](geo-targeted-approach.md) - Detailed SEO strategy for state and city pages
