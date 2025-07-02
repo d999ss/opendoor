@@ -10,6 +10,8 @@ Project Number: OP-276
 ## Background and Motivation
 Opendoor needs to develop and organize location-specific (geo) pages and campaign landing pages to improve SEO performance and provide targeted content for marketing campaigns. These pages will help capture location-specific search traffic and provide customized experiences for users coming from different marketing campaigns.
 
+A detailed analysis has identified that Opendoor currently lacks robust geo-targeted content for its top markets, impacting SEO performance and local discoverability. There's an opportunity to develop a scalable strategy that balances unique market storytelling with programmatic efficiencies — ultimately increasing visibility and engagement in high-priority markets. For complete details, see the [Geo-Targeted Approach](./geo-targeted-approach.md) document.
+
 ## Key Challenges and Analysis
 
 - Need to create a scalable template system for location-based content
@@ -17,6 +19,8 @@ Opendoor needs to develop and organize location-specific (geo) pages and campaig
 - Campaign pages need to be easily created and modified for different marketing initiatives
 - Both page types need strong SEO optimization
 - Content must align with the overall goal of improving brand perception and increasing offer flow
+- Opendoor is not currently ranking for key non-branded search terms in major markets
+- Competitors like Zillow and Offerpad have established presence in top markets
 
 ## High-level Task Breakdown
 
@@ -28,11 +32,15 @@ Opendoor needs to develop and organize location-specific (geo) pages and campaig
    - Research location-specific real estate trends and terminology
    - Analyze competitor geopage strategies
 
+   **Note**: Initial research has identified six priority states for implementation: Texas, California, Florida, Georgia, Virginia, and North Carolina. These states offer strong search demand and relatively low visibility for Opendoor today.
+
 2. **Template Design**
    - Success criteria: Approved template design that can be easily adapted for different locations
    - Create modular components that can display location-specific data
    - Design dynamic content sections for market statistics
    - Incorporate location-specific imagery and testimonials
+
+   **Note**: The recommendation is to leverage Opendoor's current Contentful setup and design system—particularly the use of modular components via Storybook and the SX prop—to create a scalable content model.
 
 3. **Content Strategy**
    - Success criteria: Content guidelines and structure for each location
@@ -71,13 +79,17 @@ Opendoor needs to develop and organize location-specific (geo) pages and campaig
 ### Target Completion Date
 September 5, 2025
 
-Based on the tasks outlined in this document, the following timeline structure will be used to track progress. Specific dates for each phase will be determined as the planning progresses.
+Based on the tasks outlined in this document, the following timeline structure will be used to track progress. The implementation is planned for 6 sprints over 12 weeks with a budget of $75,150.
+
+A detailed sprint-by-sprint implementation plan is available in the [Geo-Targeted Approach](./geo-targeted-approach.md) document.
 
 ### Phase 1: Research and Planning
+
 
 - Research target locations and SEO keywords for geopages
 - Analyze competitor geopage strategies
 - Define requirements for campaign page framework
+
 
 ### Phase 2: Design and Prototyping
 
