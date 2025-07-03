@@ -49,6 +49,7 @@ content:
         - "docs/planning/strategic-tiers.md"
         - "docs/planning/pipeline-leads.md"
         - "docs/planning/case-study-pipeline.md"
+        - "docs/planning/research-foundation-op-276.md"
     - name: "3. Task Management"
       files:
         - "docs/tasks/by-priority.md"
