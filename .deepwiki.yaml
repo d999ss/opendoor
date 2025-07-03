@@ -1,0 +1,111 @@
+# DeepWiki Configuration File
+
+# Project metadata
+project:
+  name: "Opendoor Website Redesign"
+  description: "Documentation and planning for the Opendoor website redesign project"
+  version: "1.0.0"
+
+# Documentation structure
+docs:
+  root_dir: "docs"
+  index: "README.md"
+  
+# Knowledge graph configuration
+knowledge_graph:
+  enable: true
+  tags:
+    - "website-redesign"
+    - "geo-targeting"
+    - "seo"
+    - "real-estate"
+    - "opendoor"
+    - "project-management"
+    - "strategy"
+    - "execution"
+    - "governance"
+    - "client-communications"
+    - "qa"
+    - "tools"
+
+# Content organization
+content:
+  categories:
+    - name: "1. Strategy & Overview"
+      files:
+        - "docs/strategy/project-goals.md"
+        - "docs/strategy/timeline-milestones.md"
+        - "docs/strategy/team-roles.md"
+        - "docs/strategy/budget-resourcing.md"
+        - "docs/strategy/success-metrics.md"
+    - name: "2. Planning & Execution"
+      files:
+        - "docs/planning/weekly-standups.md"
+        - "docs/planning/sprint-boards.md"
+        - "docs/planning/task-assignments.md"
+        - "docs/planning/launch-calendar.md"
+        - "docs/planning/project-tracker.md"
+        - "docs/planning/workstreams.md"
+        - "docs/planning/strategic-tiers.md"
+        - "docs/planning/pipeline-leads.md"
+        - "docs/planning/case-study-pipeline.md"
+    - name: "3. Task Management"
+      files:
+        - "docs/tasks/by-priority.md"
+        - "docs/tasks/my-tasks.md"
+        - "docs/tasks/by-person.md"
+        - "docs/tasks/backlog.md"
+        - "docs/tasks/done.md"
+        - "docs/tasks/all-tasks-view.md"
+        - "docs/tasks/onboarding-offboarding.md"
+        - "docs/tasks/to-discuss-mgmt.md"
+        - "docs/tasks/to-discuss-ops.md"
+        - "docs/tasks/recurring-tasks.md"
+        - "docs/tasks/urgent-blockers.md"
+        - "docs/tasks/approvals-needed.md"
+        - "docs/tasks/incoming-requests.md"
+    - name: "4. Governance & Ops"
+      files:
+        - "docs/governance/status-reports.md"
+        - "docs/governance/risk-issue-tracker.md"
+        - "docs/governance/decision-log.md"
+        - "docs/governance/change-requests.md"
+        - "docs/governance/post-mortems.md"
+    - name: "5. Clients & Communications"
+      files:
+        - "docs/clients/client-directory.md"
+        - "docs/clients/call-notes-summaries.md"
+        - "docs/clients/sows-contracts.md"
+        - "docs/clients/client-tools-portals.md"
+    - name: "6. QA & Reviews"
+      files:
+        - "docs/qa/creative-reviews.md"
+        - "docs/qa/dev-qa-design-qa.md"
+        - "docs/qa/final-deliverables.md"
+        - "docs/qa/sign-off-tracker.md"
+    - name: "7. Tools & Sources"
+      files:
+        - "docs/tools/figma-files.md"
+        - "docs/tools/github-repos.md"
+        - "docs/tools/meeting-notes.md"
+        - "docs/tools/asset-library.md"
+    - name: "Legacy Documentation"
+      files:
+        - "docs/opendoor-site-brief.md"
+        - "docs/geopages-campaign-pages.md"
+        - "docs/geo-targeted-approach.md"
+        - "docs/technical/system-architecture.md"
+        - "docs/technical/implementation-strategy.md"
+        - "docs/components/website-components.md"
+        - "docs/faq.md"
+
+# Search configuration
+search:
+  priority_sections:
+    - "1. Strategy & Overview"
+    - "2. Planning & Execution"
+    - "3. Task Management"
+    - "4. Governance & Ops"
+    - "5. Clients & Communications"
+    - "6. QA & Reviews"
+    - "7. Tools & Sources"

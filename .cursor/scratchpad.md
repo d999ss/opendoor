@@ -1,64 +1,92 @@
-# Opendoor Site Brief Project
+# Opendoor Landing Pages Project (OP-262)
 
 ## Background and Motivation
-Opendoor is looking to revamp their website content, design, and development which has historically been housed under Product Design. The goal is to transform web pages outside the offer-flow process into opportunities for providing relevant, interesting, and dynamic content to improve consumer perceptions of the Opendoor brand and increase offer flow conversions.
+
+The Opendoor Landing Pages project (OP-262) aims to transform web pages outside the offer-flow process into opportunities for providing relevant, interesting, and dynamic content to improve consumer perceptions of the Opendoor brand and increase offer flow conversions. This project is being executed by MAKEBTTR.COM for Opendoor, with a focus on redesigning three key areas: News & Press, Agent Access, and the Homepage.
+
+According to the site brief, the hypothesis is that if Opendoor rethinks all web pages that aren't directly part of the offer-flow process as an opportunity to give consumers relevant, interesting, dynamic content, their perceptions of the Opendoor brand will improve and they'll be more likely to begin the offer flow.
 
 ## Key Challenges and Analysis
-- Current website feels cold and lacks humanity/warmth
-- Need to consolidate and improve Press and News sections
-- Agent pages need enhancement and distinction from consumer pages
-- Homepage needs dynamic personalization based on time of year, audience, and user behavior
-- Need to balance brand guidelines with new creative directions
+
+- Current website content, design, and development has been housed under Product Design
+- The Opendoor homepage has been meticulously tested but rarely tests iterations of content beyond strict A/B tests
+- The majority of paid marketing directs consumers to the homepage to begin the offer flow
+- Current design is sleek and minimalist but can feel cold and humanless
+- Need to add more humanity and warmth to the brand while maintaining design guidelines
+- Technical SEO audit has identified numerous issues, warnings, and opportunities that need to be addressed
 
 ## High-level Task Breakdown
-### P0 Tasks (Initial Focus)
-1. **Combine Press and News into "Opendoor Newsroom"**
-   - Success criteria: Single consolidated page with Opendoor news at top, organized by content types
-   - Include social media follow buttons
-   - Incorporate employee and customer stories
-   - Place Press Kit at bottom
-   - Remove Design Media link
-   - Update individual news story page templates for better visual optimization
 
-2. **Improve Agent Access Page**
-   - Success criteria: Redesigned page with distinct agent branding (Navy color scheme)
-   - Incorporate OD for Agents logo
-   - Add offer comparison calculator tool
-   - Include "Sign up" option for swag and marketing toolkit
+### P0 Tasks (Initial Focus)
+1. **News & Press → "Opendoor Newsroom"**
+   - Success criteria: Combined pages with organized content types similar to Apple's Newsroom
+   - Create landing page design and article template
+   - Make Opendoor-created content distinct from "Opendoor in the news" content
+   - Include social media follow buttons
+   - Add employee and customer stories
+   - Update individual news story page templates
+   - Implement information architecture and modular design
+
+2. **Improve and Consolidate Agent Access Page**
+   - Success criteria: Enhanced page with distinct visual identity and valuable tools for agents
+   - Create landing page design with Opendoor for Agents logo and distinct color scheme (Navy)
+   - Build offer comparison calculator tool
+   - Implement sign-up functionality with incentives (swag and marketing toolkit)
    - Consider location-based variations
 
-### P1 Tasks (Main Event)
-1. **Redesign Homepage**
-   - Success criteria: Dynamic homepage with personalization features
-   - Implement seasonal variations (Q4/Q1 vs Q2/Q3)
-   - Add personalization for returning visitors
-   - Build in SEO/triggers for sales team notifications
+3. **Technical SEO Implementation**
+   - Success criteria: Resolution of critical SEO issues identified in the audit
+   - Fix hreflang issues (missing return links, not using canonical)
+   - Address HTML validation issues (multiple tags, elements outside proper structure)
+   - Resolve duplicate content issues
+   - Fix broken links and client errors
+   - Implement proper security headers
 
 ## Project Status Board
-- [ ] Task 1: Analyze current Press and News pages
-- [ ] Task 2: Design consolidated Newsroom page
-- [ ] Task 3: Implement individual news story page templates
-- [ ] Task 4: Analyze current Agent Access page
-- [ ] Task 5: Design improved Agent Access page with Navy color scheme
-- [ ] Task 6: Build offer comparison calculator tool
-- [ ] Task 7: Analyze current Homepage
-- [ ] Task 8: Design dynamic Homepage with personalization features
+
+- [x] SEO Audit & Shareout
+- [x] News & Press Design R1
+- [x] Agent Page Approach alignment
+- [x] Design R1
+- [ ] News & Press Design R2 (In Progress)
+- [ ] Agent Page Design R2 (In Progress)
+- [ ] Homepage Strategy (In Progress)
+- [ ] Strategy Shareout (In Progress)
+- [ ] Homepage Copy R1-2 (Upcoming)
+- [ ] Homepage Design R1-2 (Upcoming)
+- [ ] Final Design & Sign Off (To Be Done)
+- [ ] Final Copy & Sign Off (To Be Done)
 
 ## Current Status / Progress Tracking
-Project planning phase. Awaiting initial direction on which task to prioritize first.
+
+According to the April 2025 project status report, the team has completed the SEO Audit & Shareout, News & Press Design R1, Agent Page approach alignment, and Design R1. Currently in progress are News & Press Design R2, Agent Page Design R2, Homepage Strategy, and Strategy Shareout. Upcoming tasks include Homepage Copy R1-2 and Design R1-2.
+
+The project timeline shows that Brand Immersion, Product Immersion, Page Definition, SEO Audit & Recommendations, and Content Audit have been completed. Currently in progress are SEO Strategy & Implementation, Strategy & Implementation Strategy, and Design V1 & Client Review phases for various components.
 
 ## Executor's Feedback or Assistance Requests
-No feedback or assistance requests at this time.
+
+No specific feedback or assistance requests at this time, but we should note the following key dates for scheduling:
+- UK Bttr Office Holiday: 04/18-21, 05/05
+- Lauren West OOO: 05/20-23
+- Jocelyn McArthur OOO: 05/20-23
+- Chris Kerr OOO: 05/16-23
+- US/UK Bttr Office Holiday: 05/26
+- Opendoor Holiday: 05/26
+- Nicole Hampton OOO: 05/27-30
+- US Bttr Office Holiday: 06/19
 
 ## Lessons
-No lessons documented yet.
+
+- The project requires a balance between maintaining Opendoor's design guidelines while adding more humanity and warmth
+- SEO implementation is a critical component of the project with numerous technical issues to address
+- Dynamic content that varies by time of year and audience is a key strategy for the homepage
+- Personalization based on user behavior can enhance the user experience
 
 ## Resources
-- Copy product language: [MarCom Messaging Guidelines](https://docs.google.com/presentation/d/1BrRejkEyPPgOYUgcps_h-ySC75R_ub16lYJJJLl0in8/edit#slide=id.g2c6c550bc2d_6_52)
-- Brand Guidelines: [Opendoor Brand Guidelines (2024)](https://drive.google.com/file/d/149suEgoXB6nyhL6uLZDju8aQIl3ZCa33/view?usp=drive_link)
+
+- Copy product language: MarCom Messaging Guidelines
+- Brand Guidelines: Opendoor Brand Guidelines (2024)
 - Logos, Fonts available on Playbook
-- Employee and Customer Stories:
-  - [Employee Yasmine](https://www.instagram.com/p/DG1ZamRvJrt/?hl=en)
-  - [Employee Eric](https://www.instagram.com/reel/DFqi7zgJmv-/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-  - [Customer Chelsea](https://www.instagram.com/p/C-se_-BKB7V/?hl=en)
-  - [Customer Charlene](https://www.instagram.com/p/C85VyHpPDnn/?hl=en)
+- Employee and Customer Stories (Instagram links)
+- Technical SEO Audit (April 2024)
+- Competitor Analysis (Offerpad, Redfin, Zillow, Knock, Orchard, EasyKnock, Casavo, Hibuy, Kodit.io)
