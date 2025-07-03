@@ -24,6 +24,7 @@ Welcome to the documentation for the Opendoor Website Redesign project. This doc
 - [Pipeline / Leads](planning/pipeline-leads.md)
 - [Case Study Pipeline](planning/case-study-pipeline.md)
 - [Research Foundation OP-276](planning/research-foundation-op-276.md)
+- [Research Roadmap](planning/research-roadmap.md)
 
 ### 3. Task Management
 
